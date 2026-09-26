@@ -1,21 +1,64 @@
-# 💫 About Me:
-🔭 I’m currently working on building a full-stack job portal  where companies can post job openings and individuals can apply for suitable positions.<br><br>👯 I’m looking to collaborate on innovative web development projects or AI-driven applications.<br><br>🤝 I’m looking for help with refining my skills in back-end development and exploring advanced AI technologies.<br><br>🌱 I’m currently learning the ins and outs of MongoDB, Express.js, React.js, Node.js, and enhancing my understanding of AI technologies.<br><br>💬 Ask me about web development, responsive design, AI technologies, or anything tech-related! I'm always eager to share knowledge and learn new things.
+<a href="https://gautamsuyog.com.np">
+  <img src="https://gautamsuyog.com.np/og.png" alt="Suyog Gautam — full-stack engineer. Document tools in the browser: FynePDF and IntelliDoc." width="100%" />
+</a>
 
+<p>
+  <a href="https://gautamsuyog.com.np">
+    <img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=600&size=24&duration=2600&pause=900&color=111110&background=DCF64A&vCenter=true&width=620&height=44&lines=Full-stack+engineer+from+Chitwan%2C+Nepal;Building+PDF+tools+%2B+AI+agents+at+FynePDF;Making+scanned+documents+editable+%E2%86%92+IntelliDoc;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+Postgres" alt="Full-stack engineer from Chitwan, Nepal. Building PDF tools and AI agents at FynePDF. Making scanned documents editable with IntelliDoc." />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hey_suyog) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suyog-gautam-84bb10299) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hey_suyog) 
+Hi, I'm **Suyog**. I build document tools that run in the browser: PDF tools and AI features at **[FynePDF](https://fynepdf.com)**, and **[IntelliDoc](https://suyog-gautam.github.io/intellidoc/)**, my own editor for scanned documents.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)  ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=suyog-gautam&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=suyog-gautam&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=suyog-gautam&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+Most days that's React, Next.js and TypeScript up front, with Node.js and Postgres behind it. The problems I keep coming back to are the ones where the browser has to do real work: big PDFs, OCR, canvas rendering, WebAssembly.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=suyog-gautam&theme=nord&no-frame=true&no-bg=true&margin-w=4)
+<img src="./about.svg" alt="suyog.ts — role: Full-stack engineer; based in Chitwan, Nepal (remote); now: FynePDF, PDF tools and AI document agents; building: IntelliDoc; stack: TypeScript, React, Next.js, Node.js, PostgreSQL" width="100%" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## What I'm working on
 
+**FynePDF** · *Full-stack engineer, Sep 2025 – now*<br>
+Browser-based PDF tools and AI document agents. I built things like AI redaction you can describe in plain words, a virtualized viewer that stopped large PDFs from crashing the tab, and plan limits and AI allowances on the backend.
 
+**IntelliDoc** · *[Live](https://suyog-gautam.github.io/intellidoc/) · [Code](https://github.com/suyog-gautam/intellidoc)*<br>
+Change a date, a name or a number in a scanned PDF or photo. It finds the text, rebuilds the paper underneath and redraws the new text to match the scan. Nothing leaves your device.
+
+How it edits a scan:
+
+1. **Read.** OCR finds every line of text, in 40 languages.
+2. **Match.** Candidate fonts are fitted against the real pixels: size, weight, slant, blur.
+3. **Rebuild.** The old text is removed and the paper underneath is filled back in, grain and all.
+4. **Render.** The new text is drawn with the fitted style and rotated back into place.
+
+[Try it with any scan →](https://suyog-gautam.github.io/intellidoc/)
+
+## Other things I've built
+
+| Project | What it does | Built with |
+|---|---|---|
+| [Quick Care](https://github.com/suyog-gautam/QuickCare) | Hospital appointments: booking, doctor schedules, admin panel, eSewa payments | MERN · Tailwind · shadcn/ui |
+| [Job Nest](https://github.com/suyog-gautam/JobNest) | Mobile job portal: post, search, save, apply with a resume | React Native · Firebase |
+| [Expense Tracker](https://github.com/suyog-gautam/Expense-Tracker-tool) · [live](https://suyog-gautam.github.io/Expense-Tracker-tool/) | Income, expenses and a running balance that survives a reload | React · localStorage |
+| [Chat App](https://github.com/suyog-gautam/Chat-App) | Real-time chat | React · Firebase · NextUI |
+| [Keep Notes](https://github.com/suyog-gautam/Keep-Notes) | Notes with auth and search | MERN |
+
+## Tools I reach for
+
+![TypeScript](https://img.shields.io/badge/TypeScript-111110?style=flat-square&logo=typescript&logoColor=DCF64A) ![JavaScript](https://img.shields.io/badge/JavaScript-111110?style=flat-square&logo=javascript&logoColor=DCF64A) ![React](https://img.shields.io/badge/React-111110?style=flat-square&logo=react&logoColor=DCF64A) ![Next.js](https://img.shields.io/badge/Next.js-111110?style=flat-square&logo=nextdotjs&logoColor=DCF64A) ![React Native](https://img.shields.io/badge/React_Native-111110?style=flat-square&logo=react&logoColor=DCF64A) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111110?style=flat-square&logo=tailwindcss&logoColor=DCF64A) ![Node.js](https://img.shields.io/badge/Node.js-111110?style=flat-square&logo=nodedotjs&logoColor=DCF64A) ![Express](https://img.shields.io/badge/Express-111110?style=flat-square&logo=express&logoColor=DCF64A) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111110?style=flat-square&logo=postgresql&logoColor=DCF64A) ![MongoDB](https://img.shields.io/badge/MongoDB-111110?style=flat-square&logo=mongodb&logoColor=DCF64A) ![MySQL](https://img.shields.io/badge/MySQL-111110?style=flat-square&logo=mysql&logoColor=DCF64A) ![Firebase](https://img.shields.io/badge/Firebase-111110?style=flat-square&logo=firebase&logoColor=DCF64A) ![Laravel](https://img.shields.io/badge/Laravel-111110?style=flat-square&logo=laravel&logoColor=DCF64A) ![PHP](https://img.shields.io/badge/PHP-111110?style=flat-square&logo=php&logoColor=DCF64A) ![Python](https://img.shields.io/badge/Python-111110?style=flat-square&logo=python&logoColor=DCF64A) ![Go](https://img.shields.io/badge/Go_(learning)-111110?style=flat-square&logo=go&logoColor=DCF64A) ![WebAssembly](https://img.shields.io/badge/WebAssembly-111110?style=flat-square&logo=webassembly&logoColor=DCF64A) ![Cloudflare](https://img.shields.io/badge/Cloudflare-111110?style=flat-square&logo=cloudflare&logoColor=DCF64A)
+
+## GitHub, in numbers
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=suyog-gautam&theme=github_dark" alt="Contributions over time" width="100%" />
+</p>
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suyog-gautam&theme=github_dark" alt="Suyog's GitHub stats" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=suyog-gautam&theme=github_dark" alt="Languages by commits" height="170" />
+</p>
+
+<img src="https://streak-stats.demolab.com/?user=suyog-gautam&hide_border=true&background=111110&ring=DCF64A&fire=DCF64A&currStreakNum=EEEBE4&sideNums=EEEBE4&currStreakLabel=DCF64A&sideLabels=A19D94&dates=A19D94&stroke=333330" alt="Contribution streak" />
+
+## Say hello
+
+[![Portfolio](https://img.shields.io/badge/gautamsuyog.com.np-DCF64A?style=for-the-badge&logo=googlechrome&logoColor=111110)](https://gautamsuyog.com.np) [![Email](https://img.shields.io/badge/Email-111110?style=for-the-badge&logo=gmail&logoColor=DCF64A)](mailto:gautamsuyog58@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-111110?style=for-the-badge&logo=linkedin&logoColor=DCF64A)](https://linkedin.com/in/suyog-gautam-84bb10299) [![X](https://img.shields.io/badge/@hey__suyog-111110?style=for-the-badge&logo=x&logoColor=DCF64A)](https://x.com/hey_suyog) [![Instagram](https://img.shields.io/badge/@hey__suyog-111110?style=for-the-badge&logo=instagram&logoColor=DCF64A)](https://instagram.com/hey_suyog) [![Resume](https://img.shields.io/badge/Resume_(PDF)-111110?style=for-the-badge&logo=readthedocs&logoColor=DCF64A)](https://gautamsuyog.com.np/Suyog-Gautam-Resume.pdf)
+
+<sub>If you've read this far: the fastest way to reach me is email.</sub>
