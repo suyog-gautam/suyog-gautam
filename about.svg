@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="310" viewBox="0 0 900 310" role="img" aria-labelledby="t d">
+  <title id="t">suyog.ts</title>
+  <desc id="d">Suyog Gautam: full-stack engineer based in Chitwan, Nepal, working remotely. Now at FynePDF on PDF tools and AI document agents, building IntelliDoc. Stack: TypeScript, React, Next.js, Node.js, PostgreSQL.</desc>
+  <style>
+    .code, .num, .tab { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 15px; }
+    .num { fill: #55534D; text-anchor: end; }
+    .tab { font-size: 12px; fill: #EEEBE4; letter-spacing: .02em; }
+    .ln { opacity: 0; animation: in .45s ease-out forwards; }
+    .cursor { animation: blink 1.1s steps(1) infinite; animation-delay: 2s; opacity: 0; }
+    @keyframes in { from { opacity: 0; transform: translateX(-6px); } to { opacity: 1; transform: none; } }
+    @keyframes blink { 0% { opacity: 1; } 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .ln { animation: none; opacity: 1; } .cursor { animation: none; opacity: 1; } }
+  </style>
+  <rect width="900" height="310" fill="#111110"/>
+  <rect width="900" height="44" fill="#1C1C1A"/>
+  <line x1="0" y1="44" x2="900" y2="44" stroke="#2A2A27"/>
+  <circle cx="24" cy="22.0" r="5" fill="#3A3A36"/>
+  <circle cx="42" cy="22.0" r="5" fill="#3A3A36"/>
+  <circle cx="60" cy="22.0" r="5" fill="#3A3A36"/>
+  <rect x="84" y="10" width="92" height="34" fill="#111110"/>
+  <rect x="84" y="10" width="92" height="2" fill="#DCF64A"/>
+  <text x="130" y="31.0" text-anchor="middle" class="tab">suyog.ts</text>
+  <text x="876" y="26.0" text-anchor="end" class="tab" fill="#A19D94" style="fill:#A19D94">gautamsuyog.com.np</text>
+    <g class="ln" style="animation-delay:0.25s"><text x="28" y="85" class="num">1</text><text x="62" y="85" class="code" xml:space="preserve"><tspan fill="#A19D94">const </tspan><tspan fill="#EEEBE4">suyog</tspan><tspan fill="#A19D94"> = {</tspan></text></g>
+  <g class="ln" style="animation-delay:0.43s"><text x="28" y="112" class="num">2</text><text x="62" y="112" class="code" xml:space="preserve"><tspan fill="#EEEBE4">  </tspan><tspan fill="#DCF64A">role</tspan><tspan fill="#A19D94">: </tspan><tspan fill="#A19D94">"</tspan><tspan fill="#EEEBE4">Full-stack engineer</tspan><tspan fill="#A19D94">"</tspan><tspan fill="#A19D94">,</tspan></text></g>
+  <g class="ln" style="animation-delay:0.61s"><text x="28" y="139" class="num">3</text><text x="62" y="139" class="code" xml:space="preserve"><tspan fill="#EEEBE4">  </tspan><tspan fill="#DCF64A">basedIn</tspan><tspan fill="#A19D94">: </tspan><tspan fill="#A19D94">"</tspan><tspan fill="#EEEBE4">Chitwan, Nepal (remote)</tspan><tspan fill="#A19D94">"</tspan><tspan fill="#A19D94">,</tspan></text></g>
+  <g class="ln" style="animation-delay:0.79s"><text x="28" y="166" class="num">4</text><text x="62" y="166" class="code" xml:space="preserve"><tspan fill="#EEEBE4">  </tspan><tspan fill="#DCF64A">now</tspan><tspan fill="#A19D94">: </tspan><tspan fill="#A19D94">"</tspan><tspan fill="#EEEBE4">FynePDF: PDF tools &amp; AI document agents</tspan><tspan fill="#A19D94">"</tspan><tspan fill="#A19D94">,</tspan></text></g>
+  <g class="ln" style="animation-delay:0.97s"><text x="28" y="193" class="num">5</text><text x="62" y="193" class="code" xml:space="preserve"><tspan fill="#EEEBE4">  </tspan><tspan fill="#DCF64A">building</tspan><tspan fill="#A19D94">: </tspan><tspan fill="#A19D94">"</tspan><tspan fill="#EEEBE4">IntelliDoc: edit a scan, keep the original look</tspan><tspan fill="#A19D94">"</tspan><tspan fill="#A19D94">,</tspan></text></g>
+  <g class="ln" style="animation-delay:1.15s"><text x="28" y="220" class="num">6</text><text x="62" y="220" class="code" xml:space="preserve"><tspan fill="#EEEBE4">  </tspan><tspan fill="#DCF64A">stack</tspan><tspan fill="#A19D94">: </tspan><tspan fill="#A19D94">[</tspan><tspan fill="#A19D94">"</tspan><tspan fill="#EEEBE4">TypeScript</tspan><tspan fill="#A19D94">"</tspan><tspan fill="#A19D94">, </tspan><tspan fill="#A19D94">"</tspan><tspan fill="#EEEBE4">React</tspan><tspan fill="#A19D94">"</tspan><tspan fill="#A19D94">, </tspan><tspan fill="#A19D94">"</tspan><tspan fill="#EEEBE4">Next.js</tspan><tspan fill="#A19D94">"</tspan><tspan fill="#A19D94">, </tspan><tspan fill="#A19D94">"</tspan><tspan fill="#EEEBE4">Node.js</tspan><tspan fill="#A19D94">"</tspan><tspan fill="#A19D94">, </tspan><tspan fill="#A19D94">"</tspan><tspan fill="#EEEBE4">PostgreSQL</tspan><tspan fill="#A19D94">"</tspan><tspan fill="#A19D94">]</tspan><tspan fill="#A19D94">,</tspan></text></g>
+  <g class="ln" style="animation-delay:1.33s"><text x="28" y="247" class="num">7</text><text x="62" y="247" class="code" xml:space="preserve"><tspan fill="#EEEBE4">  </tspan><tspan fill="#DCF64A">likes</tspan><tspan fill="#A19D94">: </tspan><tspan fill="#A19D94">[</tspan><tspan fill="#A19D94">"</tspan><tspan fill="#EEEBE4">virtualized lists</tspan><tspan fill="#A19D94">"</tspan><tspan fill="#A19D94">, </tspan><tspan fill="#A19D94">"</tspan><tspan fill="#EEEBE4">fewer re-renders</tspan><tspan fill="#A19D94">"</tspan><tspan fill="#A19D94">, </tspan><tspan fill="#A19D94">"</tspan><tspan fill="#EEEBE4">work that stays in the browser</tspan><tspan fill="#A19D94">"</tspan><tspan fill="#A19D94">]</tspan><tspan fill="#A19D94">,</tspan></text></g>
+  <g class="ln" style="animation-delay:1.51s"><text x="28" y="274" class="num">8</text><text x="62" y="274" class="code" xml:space="preserve"><tspan fill="#A19D94">};</tspan></text></g>
+  <rect class="cursor" x="84.0" y="260" width="9" height="19" fill="#DCF64A"/>
+</svg>
